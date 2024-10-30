@@ -1,3 +1,4 @@
-# Capstone Simulation files
+# Discretization of space and its impact on the dielectric breakdown model
+<i>by Gabriel Nilsson</i>
 
-This repository will contain the various live simulations I need for my capstone project.
+See more in my [research project description](https://docs.google.com/presentation/d/1oPJ3CRVSb1f9TO6bmck8aGfJzpA3nlHM72rOIj4ahlY/edit?usp=sharing).
